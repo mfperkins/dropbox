@@ -1,7 +1,7 @@
 # dropbox
 
-Here's my homework. I didn't manage to get the 'firstSegue' set up correctly on the Create and Sign in controllers ... 
+Here's my homework. It took me about 5 hours. I didn't manage to get the 'firstSegue' set up correctly on the Create and Sign in controllers ... I didn't do any of the optional extras.
 
 Here's my animated gif
 
-<iframe src="//giphy.com/embed/xTiTnILpwrQK49O5Ne" width="480" height="887" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/xTiTnILpwrQK49O5Ne">via GIPHY</a></p>
+<a href="http://imgur.com/k9iqgCh"><img src="http://imgur.com/k9iqgCh" title="source: imgur.com" /></a>
