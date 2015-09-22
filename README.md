@@ -4,4 +4,4 @@ Here's my homework. It took me about 5 hours. I didn't manage to get the 'firstS
 
 Here's my animated gif
 
-<img scr='http://i.imgur.com/k9iqgCh.gifv>
+<a href ='http://i.imgur.com/k9iqgCh.gifv'><img scr='http://i.imgur.com/k9iqgCh.gifv></a>
