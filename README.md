@@ -4,4 +4,4 @@ Here's my homework. It took me about 5 hours. I didn't manage to get the 'firstS
 
 Here's my animated gif
 
-<a href ='http://i.imgur.com/k9iqgCh.gifv'><img scr='http://i.imgur.com/k9iqgCh.gifv></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="k9iqgCh"><a href="//imgur.com/k9iqgCh">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
